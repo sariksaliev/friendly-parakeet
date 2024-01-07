@@ -2,7 +2,7 @@ import telebot, database as db, buttons as bt
 from geopy import Nominatim
 
 # Создать объект бота
-bot = telebot.TeleBot('6351551678:AAHOBL6HePkfZiSp2jknkBDmsZLEV2AU_6w')
+bot = telebot.TeleBot('6890329776:AAFJ3TPJXkX254jVkrGsYlV4Zvsxz1isT7w')
 # Использование карт
 geolocator = Nominatim(user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36')
 
